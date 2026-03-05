@@ -1,4 +1,4 @@
-⚡ Desenvolvimento e Performance
+
 No desenvolvimento do projeto Gennesis, a escolha estratégica foi codificar utilizando o Vite. Esta decisão foi pautada na necessidade de entregar uma plataforma de alta performance, focada na experiência do usuário e na agilidade do desenvolvimento.
 
 Por que Vite?
